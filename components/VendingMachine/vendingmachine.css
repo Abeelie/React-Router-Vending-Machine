@@ -1,0 +1,12 @@
+.vmImage {
+    width: 30%;
+    height: 50%;
+    background-size: cover;
+    display: flex;
+}
+
+.item-links {
+    float: right;
+    margin-top: 200px;
+    margin-right: 800px;
+}
